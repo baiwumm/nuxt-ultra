@@ -23,7 +23,7 @@ export default defineNuxtConfig({
     ],
   },
 
-  modules: ['shadcn-nuxt', '@vueuse/nuxt', '@nuxtjs/color-mode'],
+  modules: ['shadcn-nuxt', '@vueuse/nuxt', '@nuxtjs/color-mode', 'motion-v/nuxt'],
 
   shadcn: {
     /**
